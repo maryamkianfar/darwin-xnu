@@ -6,6 +6,7 @@ XNU is a hybrid kernel combining the Mach kernel developed at Carnegie Mellon Un
 XNU runs on x86_64 for both single processor and multi-processor configurations.
 
 XNU Source Tree
+
 ===============
 
   * `config` - configurations for exported apis for supported architecture and platform
